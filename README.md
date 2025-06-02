@@ -3,6 +3,8 @@
 - I'm Eric Davidson, a passionate web and software developer.
   
 - LinkedIn: https://www.linkedin.com/in/edavidson1410/
+  
+- I'm currently working on and maintaing a website for the St. Louis Bombers Men's Rugby Club.
 <!--
 **edavidson1410/edavidson1410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
